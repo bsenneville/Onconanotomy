@@ -16,4 +16,4 @@ This code was developed under the commercial software Matlab ©1994-2021 The Mat
 
 Please cite the following paper if you are using this code:
 
-Baudouin Denis de Senneville, Fatma Zohra Khoubai, Marc Bevilacqua, Alexandre Labedade, Kathleen Flosseau, Christophe Chardot, Sophie Branchereau, Jean Ripoche, Stefano Cairo, Etienne Gontier, Christophe F. Grosset,  Deciphering Tumour Tissue Organization by 3D Electron Microscopy and machine learning, bioRxiv 2021.06.15.446847; doi: https://doi.org/10.1101/2021.06.15.446847. [Download](https://www.biorxiv.org/content/10.1101/2021.06.15.446847v1.abstract)
+Baudouin Denis de Senneville, Fatma Zohra Khoubai, Marc Bevilacqua, Alexandre Labedade, Kathleen Flosseau, Christophe Chardot, Sophie Branchereau, Jean Ripoche, Stefano Cairo, Etienne Gontier, Christophe F. Grosset,  Deciphering Tumour Tissue Organization by 3D Electron Microscopy and machine learning, bioRxiv 2021.06.15.446847; doi: https://doi.org/10.1101/2021.06.15.446847.

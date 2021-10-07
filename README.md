@@ -1,5 +1,4 @@
-# Onconanotomy
-Deciphering Tumour Tissue Organization by 3D Electron Microscopy
+# Deciphering Tumour Tissue Organization by 3D Electron Microscopy
 
 This code is designed to identify bioarchitectural parameters that shape the internal and spatial organization of tumours.
 

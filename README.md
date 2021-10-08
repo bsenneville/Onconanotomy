@@ -10,10 +10,10 @@ This code contains 3 tutorials:
 
 - 'test_volume_versus_vessel.m': In this tutorial, the size of different cell components is compared to the distance to a blood capillary.
 
-This code has been written by Baudouin Denis de Senneville.
+This code has been written by Baudouin Denis de Senneville (Institut de Mathématiques de Bordeaux, UMR 5231 CNRS, Université de Bordeaux 351, cours de la Libération - F 33 405 TALENCE)
 
 This code was developed under the commercial software Matlab ©1994-2021 The MathWorks, Inc.
 
 Please cite the following paper if you are using this code:
 
-Baudouin Denis de Senneville, Fatma Zohra Khoubai, Marc Bevilacqua, Alexandre Labedade, Kathleen Flosseau, Christophe Chardot, Sophie Branchereau, Jean Ripoche, Stefano Cairo, Etienne Gontier, Christophe F. Grosset,  Deciphering Tumour Tissue Organization by 3D Electron Microscopy and machine learning, bioRxiv 2021.06.15.446847; doi: https://doi.org/10.1101/2021.06.15.446847.
+Baudouin Denis de Senneville, Fatma Zohra Khoubai, Marc Bevilacqua, Alexandre Labedade, Kathleen Flosseau, Christophe Chardot, Sophie Branchereau, Jean Ripoche, Stefano Cairo, Etienne Gontier, Christophe F. Grosset,  Deciphering Tumour Tissue Organization by 3D Electron Microscopy and machine learning, bioRxiv 2021.06.15.446847; doi: https://doi.org/10.1101/2021.06.15.446847. [Download](https://www.biorxiv.org/content/10.1101/2021.06.15.446847v1.abstract)
